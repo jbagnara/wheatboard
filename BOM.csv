@@ -1,0 +1,24 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"C1,C2",10u,https://www.mouser.com/ProductDetail/Murata-Electronics/GRM188R60J106ME84D?qs=eeBpzGFlv%252B94A2941jRlCA%3D%3D,Capacitor_SMD:C_0805_2012Metric,2,
+"C3,C6,C7,C8,C9,C10,C11,C12,C13,C14","100n","https://www.mouser.com/ProductDetail/Vishay-Vitramon/VJ0603D0R1CXBAJ?qs=5aG0NVq1C4xFAyg9C8Xxww%3D%3D&countryCode=US&currencyCode=USD","Capacitor_SMD:C_0603_1608Metric","10",""
+"C4,C5","15p","~","Capacitor_SMD:C_0603_1608Metric","2",""
+"C15,C16",1u,https://www.mouser.com/ProductDetail/Murata-Electronics/GRM188R61E105KAADJ?qs=QzBtWTOodeVXKVKwfBzJhQ%3D%3D&countryCode=US&currencyCode=USD,Capacitor_SMD:C_0402_1005Metric,2,
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D69,D70","1N4148WT","https://www.diodes.com/assets/Datasheets/ds30396.pdf","Diode_SMD:D_SOD-523","68",""
+"D67,D68",3V3,https://www.mouser.com/ProductDetail/Broadcom-Avago/ASCKCG00-NW5X5020302?qs=OcgtsXO%252B3gsRJ%252BJUmBwdbA%3D%3D,LED_SMD:LED_0603_1608Metric,2,
+"F1","Fuse","~","Fuse:Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder","1",""
+"J1",USB_C_Receptacle_USB2.0_16P,https://www.mouser.com/ProductDetail/640-USB4085-GF-A,Connector_USB:USB_C_Receptacle_GCT_USB4085,1,
+"J2",GPIO Breakout,https://www.mouser.com/ProductDetail/Harwin/M20-9990645?qs=Jph8NoUxIfWe7BJQOhiVRg%3D%3D,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,1,
+"J3",SWD Debug,https://www.mouser.com/ProductDetail/Harwin/M20-9990645?qs=Jph8NoUxIfWe7BJQOhiVRg%3D%3D,Connector:FanPinHeader_1x03_P2.54mm_Vertical,1,
+"R1,R2",5.1k,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW06035K10FKEA?qs=pfqtYUWm1IVbeSxo5oKU9A%3D%3D,Resistor_SMD:R_0603,2,
+"R3",DNF,~,Resistor_SMD:R_0603,1,
+"R4,R5",1k,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603110RFKEAHP?qs=40TFAHZMFvd0sFRXLUTniw%3D%3D,Resistor_SMD:R_0603,2,
+"R6,R7",27,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW060327R0FKEA?qs=W6eMvlWxUPwab3IYD4MjCg%3D%3D,Resistor_SMD:R_0603,2,
+"R8","10k","https://www.mouser.com/ProductDetail/Murata-Electronics/GRM188R61E105KAADJ?qs=QzBtWTOodeVXKVKwfBzJhQ%3D%3D&countryCode=US&currencyCode=USD","Resistor_SMD:R_0603_1608Metric","1",""
+"R11,R12",110,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603110RFKEAC?qs=E3Y5ESvWgWN5FxuXvatGcg%3D%3D,Resistor_SMD:R_0603,2,
+"SW1","SW_DIP_x01","~","Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W8.61mm_P2.54mm_LowProfile","1",""
+"SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12,SW13,SW14,SW15,SW16,SW17,SW18,SW19,SW20,SW21,SW22,SW23,SW24,SW25,SW26,SW27,SW28,SW29,SW30,SW31,SW32,SW33,SW34,SW35,SW36,SW37,SW38,SW39,SW40,SW41,SW42,SW43,SW44,SW45,SW46,SW47,SW48,SW49,SW50,SW51,SW52,SW53,SW54,SW55,SW56,SW57,SW58,SW59,SW60,SW61,SW62,SW63,SW64,SW65,SW66,SW67,SW68,SW69,SW70","SW_Push","~","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB,Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB,Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB,Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB,Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2,PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_Plate_1.75u","69",""
+"U1",NCP1117-3.3_SOT223,https://www.mouser.com/ProductDetail/863-NCP1117ST33T3G,Package_TO_SOT_SMD:SOT-223-3_TabPin2,1,
+"U2",W25Q128JVS,http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf,Package_SO:SOIC-8_5.23x5.23mm_P1.27mm,1,
+"U3",RP2040,https://www.mouser.com/ProductDetail/Raspberry-Pi/SC091413?qs=T%252BzbugeAwjhr%252BUbBr3TJcw%3D%3D,RP2040_minimal_r2:RP2040-QFN-56,1,
+"Y1",ABM8-272-T3,https://www.mouser.com/ProductDetail/ABRACON/ABM8-272-T3?qs=QpmGXVUTftEj6miOiJBMxQ%3D%3D,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,1,
+"SW2",SW_Push,https://www.mouser.com/ProductDetail/611-KMR231GLFS,Pushbutton Switch,1,
