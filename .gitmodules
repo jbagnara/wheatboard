@@ -1,3 +1,9 @@
 [submodule "qmk-vim"]
 	path = qmk-vim
 	url = https://github.com/andrewjrae/qmk-vim.git
+[submodule "kicad/external/kiswitch"]
+	path = kicad/external/kiswitch
+	url = https://github.com/kiswitch/kiswitch.git
+[submodule "kicad/external/kicad-footprints"]
+	path = kicad/external/kicad-footprints
+	url = https://gitlab.com/kicad/libraries/kicad-footprints.git
