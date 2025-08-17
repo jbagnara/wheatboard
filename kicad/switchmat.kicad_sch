@@ -3341,7 +3341,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03604fbc-b58e-421c-86ef-e382427f3e73")
-		(property "Reference" "D21"
+		(property "Reference" "D33"
 			(at 203.2 166.37 0)
 			(effects
 				(font
@@ -3357,7 +3357,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 203.2 168.275 0)
 			(effects
 				(font
@@ -3411,7 +3411,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D21")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -3427,7 +3427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "046e9d05-c028-4030-b7d0-b803aff6e48c")
-		(property "Reference" "D53"
+		(property "Reference" "D40"
 			(at 381 166.37 0)
 			(effects
 				(font
@@ -3443,7 +3443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 381 168.275 0)
 			(effects
 				(font
@@ -3497,7 +3497,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D53")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -3513,7 +3513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04d77dc5-4d66-4968-b857-b0ae504a3092")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 101.6 115.57 0)
 			(effects
 				(font
@@ -3529,7 +3529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 101.6 117.475 0)
 			(effects
 				(font
@@ -3583,7 +3583,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -3598,7 +3598,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "068b8609-fb7a-4975-ab85-0ff1e7c66ea9")
-		(property "Reference" "SW38"
+		(property "Reference" "SW64"
 			(at 270.51 215.9 0)
 			(effects
 				(font
@@ -3614,7 +3614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB"
 			(at 270.51 218.44 0)
 			(effects
 				(font
@@ -3623,7 +3623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 270.51 218.44 0)
 			(effects
 				(font
@@ -3632,7 +3632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 270.51 223.52 0)
 			(effects
 				(font
@@ -3650,7 +3650,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW38")
+					(reference "SW64")
 					(unit 1)
 				)
 			)
@@ -3666,7 +3666,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08be13be-1f99-4c59-8735-0f72f21dc176")
-		(property "Reference" "D33"
+		(property "Reference" "D22"
 			(at 279.4 140.97 0)
 			(effects
 				(font
@@ -3682,7 +3682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 279.4 142.875 0)
 			(effects
 				(font
@@ -3736,7 +3736,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D33")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -3752,7 +3752,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08d9f371-f15b-465b-bdc2-fc0f28b0d92a")
-		(property "Reference" "D62"
+		(property "Reference" "D54"
 			(at 431.8 191.77 0)
 			(effects
 				(font
@@ -3768,7 +3768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 431.8 193.675 0)
 			(effects
 				(font
@@ -3822,7 +3822,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D62")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -3838,7 +3838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a5d184e-3b43-4a9d-b6a1-3fcc7c26bc3a")
-		(property "Reference" "D48"
+		(property "Reference" "D39"
 			(at 355.6 166.37 0)
 			(effects
 				(font
@@ -3854,7 +3854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 355.6 168.275 0)
 			(effects
 				(font
@@ -3908,7 +3908,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D48")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -3924,7 +3924,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b1ef596-1859-4ce7-852e-72f642084c8e")
-		(property "Reference" "SW59"
+		(property "Reference" "SW31"
 			(at 397.51 139.7 0)
 			(effects
 				(font
@@ -3976,7 +3976,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW59")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -3992,7 +3992,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0cae4f3c-3bbf-4b83-8d4b-c89d2c5c0d7a")
-		(property "Reference" "D54"
+		(property "Reference" "D52"
 			(at 381 191.77 0)
 			(effects
 				(font
@@ -4008,7 +4008,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 381 193.675 0)
 			(effects
 				(font
@@ -4062,7 +4062,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D54")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -4078,7 +4078,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0cf37413-e394-4651-86c9-c183d58a9d8e")
-		(property "Reference" "SW4"
+		(property "Reference" "SW19"
 			(at 92.71 139.7 0)
 			(effects
 				(font
@@ -4094,7 +4094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 92.71 142.24 0)
 			(effects
 				(font
@@ -4103,7 +4103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 92.71 142.24 0)
 			(effects
 				(font
@@ -4112,7 +4112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 92.71 147.32 0)
 			(effects
 				(font
@@ -4130,7 +4130,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW4")
+					(reference "SW19")
 					(unit 1)
 				)
 			)
@@ -4146,7 +4146,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e13da8a-1128-49bf-97bc-f425e9f72b76")
-		(property "Reference" "D5"
+		(property "Reference" "D55"
 			(at 101.6 217.17 0)
 			(effects
 				(font
@@ -4162,7 +4162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 101.6 219.075 0)
 			(effects
 				(font
@@ -4216,7 +4216,7 @@
 		(instances
 			(project ""
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D5")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -4231,7 +4231,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ffcb40b-4767-4a19-9fe2-64b0fb2cafc4")
-		(property "Reference" "SW7"
+		(property "Reference" "SW59"
 			(at 92.71 215.9 0)
 			(effects
 				(font
@@ -4283,7 +4283,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW7")
+					(reference "SW59")
 					(unit 1)
 				)
 			)
@@ -4299,7 +4299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13194f74-bb86-4f6b-bf7f-d49ad255f772")
-		(property "Reference" "D63"
+		(property "Reference" "D65"
 			(at 431.8 217.17 0)
 			(effects
 				(font
@@ -4315,7 +4315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 431.8 219.075 0)
 			(effects
 				(font
@@ -4369,7 +4369,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D63")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -4385,7 +4385,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15a0a568-25e7-4d67-84e2-3433c1f7703f")
-		(property "Reference" "D12"
+		(property "Reference" "D43"
 			(at 152.4 191.77 0)
 			(effects
 				(font
@@ -4401,7 +4401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 152.4 193.675 0)
 			(effects
 				(font
@@ -4455,7 +4455,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D12")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -4471,7 +4471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15e3ac80-5087-45f4-8a40-4afb8be0a65d")
-		(property "Reference" "SW48"
+		(property "Reference" "SW16"
 			(at 346.71 114.3 0)
 			(effects
 				(font
@@ -4523,7 +4523,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW48")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -4539,7 +4539,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "163def61-5257-4598-9c42-ab4d269ef1e5")
-		(property "Reference" "D4"
+		(property "Reference" "D42"
 			(at 101.6 191.77 0)
 			(effects
 				(font
@@ -4555,7 +4555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 101.6 193.675 0)
 			(effects
 				(font
@@ -4609,7 +4609,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D4")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -4625,7 +4625,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1967e669-6454-41e8-b526-5f298932a8d3")
-		(property "Reference" "D30"
+		(property "Reference" "D35"
 			(at 254 166.37 0)
 			(effects
 				(font
@@ -4641,7 +4641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 254 168.275 0)
 			(effects
 				(font
@@ -4695,7 +4695,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D30")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -4711,7 +4711,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a6e0d21-05f8-4c8d-b477-259896b7bbb3")
-		(property "Reference" "D22"
+		(property "Reference" "D45"
 			(at 203.2 191.77 0)
 			(effects
 				(font
@@ -4727,7 +4727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 203.2 193.675 0)
 			(effects
 				(font
@@ -4781,7 +4781,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D22")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -4797,7 +4797,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c73254e-1a6b-4d49-a345-a8550acb9fb7")
-		(property "Reference" "SW3"
+		(property "Reference" "SW6"
 			(at 92.71 114.3 0)
 			(effects
 				(font
@@ -4813,7 +4813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
 			(at 92.71 116.84 0)
 			(effects
 				(font
@@ -4822,7 +4822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 92.71 116.84 0)
 			(effects
 				(font
@@ -4831,7 +4831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 92.71 121.92 0)
 			(effects
 				(font
@@ -4849,7 +4849,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW3")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -4865,7 +4865,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26f8ba54-8d4a-4e2a-ae3b-85bf5e3d8b90")
-		(property "Reference" "D42"
+		(property "Reference" "D24"
 			(at 330.2 140.97 0)
 			(effects
 				(font
@@ -4881,7 +4881,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 330.2 142.875 0)
 			(effects
 				(font
@@ -4935,7 +4935,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D42")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -4951,7 +4951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29a27e12-268a-4148-9716-669bff863f23")
-		(property "Reference" "D24"
+		(property "Reference" "D20"
 			(at 228.6 140.97 0)
 			(effects
 				(font
@@ -4967,7 +4967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 228.6 142.875 0)
 			(effects
 				(font
@@ -5021,7 +5021,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D24")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -5037,7 +5037,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c1dc684-4113-46cc-b451-30ba65629d11")
-		(property "Reference" "D23"
+		(property "Reference" "D7"
 			(at 228.6 115.57 0)
 			(effects
 				(font
@@ -5053,7 +5053,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 228.6 117.475 0)
 			(effects
 				(font
@@ -5107,7 +5107,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D23")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -5122,7 +5122,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2c40ae45-4ef7-4e7d-b70a-2a6aec8582da")
-		(property "Reference" "SW65"
+		(property "Reference" "SW69"
 			(at 422.91 215.9 0)
 			(effects
 				(font
@@ -5174,7 +5174,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW65")
+					(reference "SW69")
 					(unit 1)
 				)
 			)
@@ -5190,7 +5190,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c6b3570-2682-4f89-97d1-f7385a4ee063")
-		(property "Reference" "D57"
+		(property "Reference" "D27"
 			(at 406.4 140.97 0)
 			(effects
 				(font
@@ -5206,7 +5206,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 406.4 142.875 0)
 			(effects
 				(font
@@ -5260,7 +5260,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D57")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -5276,7 +5276,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ceacef3-fe99-48c1-87ea-a20556bfea93")
-		(property "Reference" "SW22"
+		(property "Reference" "SW23"
 			(at 194.31 139.7 0)
 			(effects
 				(font
@@ -5328,7 +5328,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW22")
+					(reference "SW23")
 					(unit 1)
 				)
 			)
@@ -5344,7 +5344,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f411f7e-621d-4ba3-9275-551ce267501a")
-		(property "Reference" "SW6"
+		(property "Reference" "SW46"
 			(at 92.71 190.5 0)
 			(effects
 				(font
@@ -5360,7 +5360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
 			(at 92.71 193.04 0)
 			(effects
 				(font
@@ -5369,7 +5369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 92.71 193.04 0)
 			(effects
 				(font
@@ -5378,7 +5378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 92.71 198.12 0)
 			(effects
 				(font
@@ -5396,7 +5396,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW6")
+					(reference "SW46")
 					(unit 1)
 				)
 			)
@@ -5412,7 +5412,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30ab258d-04c7-469f-85f2-2fcf49928a8f")
-		(property "Reference" "SW34"
+		(property "Reference" "SW13"
 			(at 270.51 114.3 0)
 			(effects
 				(font
@@ -5464,7 +5464,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW34")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -5480,7 +5480,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32b433ee-bc99-4a8d-9364-50647851a2be")
-		(property "Reference" "D25"
+		(property "Reference" "D34"
 			(at 228.6 166.37 0)
 			(effects
 				(font
@@ -5496,7 +5496,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 228.6 168.275 0)
 			(effects
 				(font
@@ -5550,7 +5550,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D25")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -5566,7 +5566,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3698564f-4e62-4704-b8a5-3e0c6aaed612")
-		(property "Reference" "D55"
+		(property "Reference" "D63"
 			(at 381 217.17 0)
 			(effects
 				(font
@@ -5582,7 +5582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 381 219.075 0)
 			(effects
 				(font
@@ -5636,7 +5636,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D55")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -5652,7 +5652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3745da26-e094-47f7-be72-57c0283b419d")
-		(property "Reference" "D10"
+		(property "Reference" "D17"
 			(at 152.4 140.97 0)
 			(effects
 				(font
@@ -5668,7 +5668,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 152.4 142.875 0)
 			(effects
 				(font
@@ -5722,7 +5722,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D10")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -5738,7 +5738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "388211d9-f19a-43e8-81f9-1f4af30288f4")
-		(property "Reference" "D41"
+		(property "Reference" "D11"
 			(at 330.2 115.57 0)
 			(effects
 				(font
@@ -5754,7 +5754,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 330.2 117.475 0)
 			(effects
 				(font
@@ -5808,7 +5808,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D41")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -5824,7 +5824,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b2bd310-fc11-4ddd-9d2f-69436bdf0137")
-		(property "Reference" "D50"
+		(property "Reference" "D62"
 			(at 355.6 217.17 0)
 			(effects
 				(font
@@ -5840,7 +5840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 355.6 219.075 0)
 			(effects
 				(font
@@ -5894,7 +5894,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D50")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -5909,7 +5909,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3b722785-f555-4c71-b921-1388b2b7ccf1")
-		(property "Reference" "SW18"
+		(property "Reference" "SW36"
 			(at 168.91 165.1 0)
 			(effects
 				(font
@@ -5961,7 +5961,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW18")
+					(reference "SW36")
 					(unit 1)
 				)
 			)
@@ -5977,7 +5977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ba2ac1b-c17a-44b0-aa30-25e240c9a353")
-		(property "Reference" "D59"
+		(property "Reference" "D53"
 			(at 406.4 191.77 0)
 			(effects
 				(font
@@ -5993,7 +5993,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 406.4 193.675 0)
 			(effects
 				(font
@@ -6047,7 +6047,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D59")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -6063,7 +6063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3dc8bc5b-833f-43e3-92fb-917f79290a13")
-		(property "Reference" "D36"
+		(property "Reference" "D60"
 			(at 279.4 217.17 0)
 			(effects
 				(font
@@ -6079,7 +6079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 279.4 219.075 0)
 			(effects
 				(font
@@ -6133,7 +6133,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D36")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -6149,7 +6149,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f3eb0b2-5d12-41e4-b355-1f1ae70e5b9f")
-		(property "Reference" "SW31"
+		(property "Reference" "SW25"
 			(at 245.11 139.7 0)
 			(effects
 				(font
@@ -6201,7 +6201,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW31")
+					(reference "SW25")
 					(unit 1)
 				)
 			)
@@ -6216,7 +6216,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4002357c-f373-4f2d-bf68-43b2d5fb4902")
-		(property "Reference" "SW13"
+		(property "Reference" "SW35"
 			(at 143.51 165.1 0)
 			(effects
 				(font
@@ -6268,7 +6268,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW13")
+					(reference "SW35")
 					(unit 1)
 				)
 			)
@@ -6284,7 +6284,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43170340-b380-4953-a751-bb032451d00e")
-		(property "Reference" "SW40"
+		(property "Reference" "SW27"
 			(at 295.91 139.7 0)
 			(effects
 				(font
@@ -6336,7 +6336,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW40")
+					(reference "SW27")
 					(unit 1)
 				)
 			)
@@ -6351,7 +6351,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44c1e482-11f9-4068-a1f5-0f65a47ec960")
-		(property "Reference" "SW29"
+		(property "Reference" "SW63"
 			(at 219.71 215.9 0)
 			(effects
 				(font
@@ -6367,7 +6367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
 			(at 219.71 218.44 0)
 			(effects
 				(font
@@ -6376,7 +6376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 219.71 218.44 0)
 			(effects
 				(font
@@ -6385,7 +6385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 219.71 223.52 0)
 			(effects
 				(font
@@ -6403,7 +6403,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW29")
+					(reference "SW63")
 					(unit 1)
 				)
 			)
@@ -6419,7 +6419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4552547f-821c-4650-bc65-badc8b2e16a0")
-		(property "Reference" "D9"
+		(property "Reference" "D4"
 			(at 152.4 115.57 0)
 			(effects
 				(font
@@ -6435,7 +6435,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 152.4 117.475 0)
 			(effects
 				(font
@@ -6489,7 +6489,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D9")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -6504,7 +6504,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "458f6407-7f06-4153-946a-7d1922ee4f43")
-		(property "Reference" "SW62"
+		(property "Reference" "SW68"
 			(at 397.51 215.9 0)
 			(effects
 				(font
@@ -6556,7 +6556,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW62")
+					(reference "SW68")
 					(unit 1)
 				)
 			)
@@ -6572,7 +6572,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46b050e6-0329-45d8-ade6-75f15dde7770")
-		(property "Reference" "SW44"
+		(property "Reference" "SW28"
 			(at 321.31 139.7 0)
 			(effects
 				(font
@@ -6624,7 +6624,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW44")
+					(reference "SW28")
 					(unit 1)
 				)
 			)
@@ -6640,7 +6640,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48783f65-64de-4276-a476-8437f00a8848")
-		(property "Reference" "SW64"
+		(property "Reference" "SW58"
 			(at 422.91 190.5 0)
 			(effects
 				(font
@@ -6656,7 +6656,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_Plate_1.75u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 422.91 193.04 0)
 			(effects
 				(font
@@ -6665,7 +6665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 422.91 193.04 0)
 			(effects
 				(font
@@ -6674,7 +6674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 422.91 198.12 0)
 			(effects
 				(font
@@ -6692,7 +6692,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW64")
+					(reference "SW58")
 					(unit 1)
 				)
 			)
@@ -6708,7 +6708,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a646318-792c-4cf1-b925-47bc439a2f0d")
-		(property "Reference" "SW58"
+		(property "Reference" "SW18"
 			(at 397.51 114.3 0)
 			(effects
 				(font
@@ -6760,7 +6760,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW58")
+					(reference "SW18")
 					(unit 1)
 				)
 			)
@@ -6843,7 +6843,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4e28c7db-572e-46d0-a19c-30479787cdbb")
-		(property "Reference" "SW36"
+		(property "Reference" "SW40"
 			(at 270.51 165.1 0)
 			(effects
 				(font
@@ -6895,7 +6895,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW36")
+					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -6911,7 +6911,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50c8f663-23e5-413f-ad19-1c0c5c4a9036")
-		(property "Reference" "SW12"
+		(property "Reference" "SW21"
 			(at 143.51 139.7 0)
 			(effects
 				(font
@@ -6963,7 +6963,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW12")
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -6979,7 +6979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52329f1a-d048-411e-8a03-42042de9ff12")
-		(property "Reference" "SW33"
+		(property "Reference" "SW51"
 			(at 245.11 190.5 0)
 			(effects
 				(font
@@ -7031,7 +7031,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW33")
+					(reference "SW51")
 					(unit 1)
 				)
 			)
@@ -7047,7 +7047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52e2bd85-1e33-4e64-a69c-fd8c44fbe4ab")
-		(property "Reference" "D29"
+		(property "Reference" "D21"
 			(at 254 140.97 0)
 			(effects
 				(font
@@ -7063,7 +7063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 254 142.875 0)
 			(effects
 				(font
@@ -7117,7 +7117,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D29")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -7133,7 +7133,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58ff990d-f2ab-4bc7-acb8-b928614a6be7")
-		(property "Reference" "D18"
+		(property "Reference" "D58"
 			(at 203.2 217.17 0)
 			(effects
 				(font
@@ -7149,7 +7149,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 203.2 219.075 0)
 			(effects
 				(font
@@ -7203,7 +7203,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D18")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -7219,7 +7219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59e8bf6f-4abf-4179-931e-a8ddc0f3ed7b")
-		(property "Reference" "D26"
+		(property "Reference" "D46"
 			(at 228.6 191.77 0)
 			(effects
 				(font
@@ -7235,7 +7235,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 228.6 193.675 0)
 			(effects
 				(font
@@ -7289,7 +7289,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D26")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -7305,7 +7305,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b1ed4c9-0ef1-4cf8-a1f5-3c53473399ca")
-		(property "Reference" "SW19"
+		(property "Reference" "SW48"
 			(at 168.91 190.5 0)
 			(effects
 				(font
@@ -7357,7 +7357,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW19")
+					(reference "SW48")
 					(unit 1)
 				)
 			)
@@ -7373,7 +7373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bbe0a66-a519-4b4b-8f1f-166d80b921fd")
-		(property "Reference" "D17"
+		(property "Reference" "D44"
 			(at 177.8 191.77 0)
 			(effects
 				(font
@@ -7389,7 +7389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 177.8 193.675 0)
 			(effects
 				(font
@@ -7443,7 +7443,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D17")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -7459,7 +7459,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fd70461-50e8-4e2e-a6bb-5b084deb6365")
-		(property "Reference" "SW26"
+		(property "Reference" "SW24"
 			(at 219.71 139.7 0)
 			(effects
 				(font
@@ -7511,7 +7511,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW26")
+					(reference "SW24")
 					(unit 1)
 				)
 			)
@@ -7527,7 +7527,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6144d652-657f-489b-ba57-20544dfeac54")
-		(property "Reference" "SW51"
+		(property "Reference" "SW55"
 			(at 346.71 190.5 0)
 			(effects
 				(font
@@ -7579,7 +7579,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW51")
+					(reference "SW55")
 					(unit 1)
 				)
 			)
@@ -7595,7 +7595,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62a25c4a-5a60-4edd-a85d-f332d13ff762")
-		(property "Reference" "D44"
+		(property "Reference" "D50"
 			(at 330.2 191.77 0)
 			(effects
 				(font
@@ -7611,7 +7611,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 330.2 193.675 0)
 			(effects
 				(font
@@ -7665,7 +7665,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D44")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -7681,7 +7681,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65b07813-d2e8-4b91-a3b2-e6367757509a")
-		(property "Reference" "SW8"
+		(property "Reference" "SW7"
 			(at 118.11 114.3 0)
 			(effects
 				(font
@@ -7733,7 +7733,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW8")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -7748,7 +7748,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "69aed019-6d4b-42f2-9b43-60b0260940fc")
-		(property "Reference" "SW5"
+		(property "Reference" "SW33"
 			(at 92.71 165.1 0)
 			(effects
 				(font
@@ -7764,7 +7764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_Plate_1.75u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
 			(at 92.71 167.64 0)
 			(effects
 				(font
@@ -7773,7 +7773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 92.71 167.64 0)
 			(effects
 				(font
@@ -7782,7 +7782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 92.71 172.72 0)
 			(effects
 				(font
@@ -7800,7 +7800,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW5")
+					(reference "SW33")
 					(unit 1)
 				)
 			)
@@ -7815,7 +7815,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6ac33ba7-d76e-4b92-8e71-c1ce6ce63637")
-		(property "Reference" "SW57"
+		(property "Reference" "SW67"
 			(at 372.11 215.9 0)
 			(effects
 				(font
@@ -7867,7 +7867,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW57")
+					(reference "SW67")
 					(unit 1)
 				)
 			)
@@ -7883,7 +7883,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d7be16a-4c8f-4cec-a821-fcd2686f171d")
-		(property "Reference" "SW16"
+		(property "Reference" "SW9"
 			(at 168.91 114.3 0)
 			(effects
 				(font
@@ -7935,7 +7935,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW16")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -7951,7 +7951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ecb4ca6-989d-4d5b-b5c1-072e593ea76e")
-		(property "Reference" "SW60"
+		(property "Reference" "SW45"
 			(at 397.51 165.1 0)
 			(effects
 				(font
@@ -7967,7 +7967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_Plate_1.75u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
 			(at 397.51 167.64 0)
 			(effects
 				(font
@@ -8003,7 +8003,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW60")
+					(reference "SW45")
 					(unit 1)
 				)
 			)
@@ -8019,7 +8019,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f66dc17-f29d-4007-87d0-8ea2ee8428bb")
-		(property "Reference" "SW28"
+		(property "Reference" "SW50"
 			(at 219.71 190.5 0)
 			(effects
 				(font
@@ -8071,7 +8071,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW28")
+					(reference "SW50")
 					(unit 1)
 				)
 			)
@@ -8087,7 +8087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6fee98d0-fa6d-4b2b-819b-b0d05e96cbe0")
-		(property "Reference" "D6"
+		(property "Reference" "D3"
 			(at 127 115.57 0)
 			(effects
 				(font
@@ -8103,7 +8103,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 127 117.475 0)
 			(effects
 				(font
@@ -8157,7 +8157,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D6")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -8173,7 +8173,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7122802f-38ef-45c0-bcc4-5aa8b7130f87")
-		(property "Reference" "D19"
+		(property "Reference" "D6"
 			(at 203.2 115.57 0)
 			(effects
 				(font
@@ -8189,7 +8189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 203.2 117.475 0)
 			(effects
 				(font
@@ -8243,7 +8243,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D19")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -8259,7 +8259,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71a0f9f7-ee80-48ef-898e-d72997e08778")
-		(property "Reference" "D49"
+		(property "Reference" "D51"
 			(at 355.6 191.77 0)
 			(effects
 				(font
@@ -8275,7 +8275,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 355.6 193.675 0)
 			(effects
 				(font
@@ -8329,7 +8329,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D49")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -8345,7 +8345,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d2c518c-b07a-4fc0-8ced-361807f74cc2")
-		(property "Reference" "D28"
+		(property "Reference" "D8"
 			(at 254 115.57 0)
 			(effects
 				(font
@@ -8361,7 +8361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 254 117.475 0)
 			(effects
 				(font
@@ -8415,7 +8415,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D28")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -8431,7 +8431,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d6e04b9-3a48-4f17-a3b5-c0d9de649cc5")
-		(property "Reference" "D68"
+		(property "Reference" "D56"
 			(at 127 217.17 0)
 			(effects
 				(font
@@ -8501,7 +8501,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D68")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -8517,7 +8517,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e4f5253-99d0-46aa-9907-c036d0b2e7d0")
-		(property "Reference" "D31"
+		(property "Reference" "D47"
 			(at 254 191.77 0)
 			(effects
 				(font
@@ -8533,7 +8533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 254 193.675 0)
 			(effects
 				(font
@@ -8587,7 +8587,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D31")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -8603,7 +8603,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e96b17c-0683-471c-846f-905589645f30")
-		(property "Reference" "SW46"
+		(property "Reference" "SW54"
 			(at 321.31 190.5 0)
 			(effects
 				(font
@@ -8655,7 +8655,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW46")
+					(reference "SW54")
 					(unit 1)
 				)
 			)
@@ -8671,7 +8671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8111a9db-bc5d-459e-b984-0411ad5c9efe")
-		(property "Reference" "D11"
+		(property "Reference" "D31"
 			(at 152.4 166.37 0)
 			(effects
 				(font
@@ -8687,7 +8687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 152.4 168.275 0)
 			(effects
 				(font
@@ -8741,7 +8741,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D11")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -8757,7 +8757,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83947daf-464d-41c1-8763-46df5d5b2800")
-		(property "Reference" "SW17"
+		(property "Reference" "SW22"
 			(at 168.91 139.7 0)
 			(effects
 				(font
@@ -8809,7 +8809,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW17")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -8825,7 +8825,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "869d7b45-3105-43fa-80f2-00dfa29dd38a")
-		(property "Reference" "D14"
+		(property "Reference" "D5"
 			(at 177.8 115.57 0)
 			(effects
 				(font
@@ -8841,7 +8841,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 177.8 117.475 0)
 			(effects
 				(font
@@ -8895,7 +8895,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D14")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -8911,7 +8911,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b44504e-2cae-4aee-aa46-f3a919d8f5b3")
-		(property "Reference" "D61"
+		(property "Reference" "D28"
 			(at 431.8 140.97 0)
 			(effects
 				(font
@@ -8927,7 +8927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 431.8 142.875 0)
 			(effects
 				(font
@@ -8981,7 +8981,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D61")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -8997,7 +8997,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b87cdae-48d4-4601-8cb9-fa4675a4478b")
-		(property "Reference" "D56"
+		(property "Reference" "D14"
 			(at 406.4 115.57 0)
 			(effects
 				(font
@@ -9013,7 +9013,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 406.4 117.475 0)
 			(effects
 				(font
@@ -9067,7 +9067,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D56")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -9083,7 +9083,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8bd0851a-9c5c-4780-97e9-d833d69af7c3")
-		(property "Reference" "D39"
+		(property "Reference" "D37"
 			(at 304.8 166.37 0)
 			(effects
 				(font
@@ -9099,7 +9099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 304.8 168.275 0)
 			(effects
 				(font
@@ -9153,7 +9153,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D39")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -9168,7 +9168,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8da4a4c0-5829-4fe2-bde9-483f03cd87da")
-		(property "Reference" "SW67"
+		(property "Reference" "SW60"
 			(at 118.11 215.9 0)
 			(effects
 				(font
@@ -9184,7 +9184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 218.44 0)
 			(effects
 				(font
@@ -9193,7 +9193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 118.11 218.44 0)
 			(effects
 				(font
@@ -9202,7 +9202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 118.11 223.52 0)
 			(effects
 				(font
@@ -9220,7 +9220,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW67")
+					(reference "SW60")
 					(unit 1)
 				)
 			)
@@ -9235,7 +9235,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "95dc7bf9-5786-4676-af52-e8b924039e1f")
-		(property "Reference" "SW23"
+		(property "Reference" "SW37"
 			(at 194.31 165.1 0)
 			(effects
 				(font
@@ -9287,7 +9287,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW23")
+					(reference "SW37")
 					(unit 1)
 				)
 			)
@@ -9303,7 +9303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9608b7af-1d38-40ec-a4b3-e71222f1fc73")
-		(property "Reference" "D45"
+		(property "Reference" "D61"
 			(at 330.2 217.17 0)
 			(effects
 				(font
@@ -9319,7 +9319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 330.2 219.075 0)
 			(effects
 				(font
@@ -9373,7 +9373,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D45")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -9389,7 +9389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b073ea8-c134-444c-bebc-da5aca438f83")
-		(property "Reference" "SW42"
+		(property "Reference" "SW53"
 			(at 295.91 190.5 0)
 			(effects
 				(font
@@ -9441,7 +9441,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW42")
+					(reference "SW53")
 					(unit 1)
 				)
 			)
@@ -9456,7 +9456,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f18d26b-01ff-462a-83f5-fcb1c2e08326")
-		(property "Reference" "SW15"
+		(property "Reference" "SW61"
 			(at 143.51 215.9 0)
 			(effects
 				(font
@@ -9508,7 +9508,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW15")
+					(reference "SW61")
 					(unit 1)
 				)
 			)
@@ -9523,7 +9523,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a1acaa3b-ea76-4c03-bea0-7e9e6e037e15")
-		(property "Reference" "SW27"
+		(property "Reference" "SW38"
 			(at 219.71 165.1 0)
 			(effects
 				(font
@@ -9575,7 +9575,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW27")
+					(reference "SW38")
 					(unit 1)
 				)
 			)
@@ -9591,7 +9591,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a24c31a8-39e7-489e-973a-833daa01fb17")
-		(property "Reference" "SW21"
+		(property "Reference" "SW10"
 			(at 194.31 114.3 0)
 			(effects
 				(font
@@ -9643,7 +9643,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW21")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -9659,7 +9659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a84c35fc-5706-4378-a76f-14ec29298b5c")
-		(property "Reference" "D34"
+		(property "Reference" "D36"
 			(at 279.4 166.37 0)
 			(effects
 				(font
@@ -9675,7 +9675,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 279.4 168.275 0)
 			(effects
 				(font
@@ -9729,7 +9729,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D34")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -9812,7 +9812,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa862dec-b023-4bbd-80ca-f491ef7321eb")
-		(property "Reference" "SW25"
+		(property "Reference" "SW11"
 			(at 219.71 114.3 0)
 			(effects
 				(font
@@ -9864,7 +9864,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW25")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -9880,7 +9880,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b046cbc7-d918-42d8-96a6-40de75d9325c")
-		(property "Reference" "D2"
+		(property "Reference" "D15"
 			(at 101.6 140.97 0)
 			(effects
 				(font
@@ -9896,7 +9896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 101.6 142.875 0)
 			(effects
 				(font
@@ -9950,7 +9950,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D2")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -9966,7 +9966,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2dc5457-5bed-4d86-88f9-51bd3e0ab845")
-		(property "Reference" "D43"
+		(property "Reference" "D38"
 			(at 330.2 166.37 0)
 			(effects
 				(font
@@ -9982,7 +9982,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 330.2 168.275 0)
 			(effects
 				(font
@@ -10036,7 +10036,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D43")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -10052,7 +10052,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b48b0c0d-b921-408c-b3af-d2b21fa0ceee")
-		(property "Reference" "D15"
+		(property "Reference" "D18"
 			(at 177.8 140.97 0)
 			(effects
 				(font
@@ -10068,7 +10068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 177.8 142.875 0)
 			(effects
 				(font
@@ -10122,7 +10122,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D15")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -10138,7 +10138,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7bc9754-7814-4178-b1d2-a81a76871124")
-		(property "Reference" "SW14"
+		(property "Reference" "SW47"
 			(at 143.51 190.5 0)
 			(effects
 				(font
@@ -10190,7 +10190,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW14")
+					(reference "SW47")
 					(unit 1)
 				)
 			)
@@ -10206,7 +10206,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bacca9f7-3768-449a-bc39-637bb132af43")
-		(property "Reference" "D38"
+		(property "Reference" "D23"
 			(at 304.8 140.97 0)
 			(effects
 				(font
@@ -10222,7 +10222,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 304.8 142.875 0)
 			(effects
 				(font
@@ -10276,7 +10276,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D38")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -10292,7 +10292,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bae632b8-3dda-49ba-a41a-63d96d070518")
-		(property "Reference" "SW61"
+		(property "Reference" "SW57"
 			(at 397.51 190.5 0)
 			(effects
 				(font
@@ -10308,7 +10308,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_Plate_1.75u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
 			(at 397.51 193.04 0)
 			(effects
 				(font
@@ -10317,7 +10317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 397.51 193.04 0)
 			(effects
 				(font
@@ -10326,7 +10326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 397.51 198.12 0)
 			(effects
 				(font
@@ -10344,7 +10344,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW61")
+					(reference "SW57")
 					(unit 1)
 				)
 			)
@@ -10360,7 +10360,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5231eea-d277-45dd-ae10-5668a3cd5d57")
-		(property "Reference" "D46"
+		(property "Reference" "D12"
 			(at 355.6 115.57 0)
 			(effects
 				(font
@@ -10376,7 +10376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 355.6 117.475 0)
 			(effects
 				(font
@@ -10430,7 +10430,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D46")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -10445,7 +10445,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c6517aa9-3550-4789-90cc-db6b60c500b1")
-		(property "Reference" "SW55"
+		(property "Reference" "SW44"
 			(at 372.11 165.1 0)
 			(effects
 				(font
@@ -10497,7 +10497,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW55")
+					(reference "SW44")
 					(unit 1)
 				)
 			)
@@ -10513,7 +10513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8e8022e-4fd1-478a-84ef-05b436c09315")
-		(property "Reference" "SW11"
+		(property "Reference" "SW8"
 			(at 143.51 114.3 0)
 			(effects
 				(font
@@ -10565,7 +10565,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW11")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -10581,7 +10581,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9716769-11f5-4c70-a394-ac09731b5819")
-		(property "Reference" "SW43"
+		(property "Reference" "SW15"
 			(at 321.31 114.3 0)
 			(effects
 				(font
@@ -10633,7 +10633,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW43")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -10649,7 +10649,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca5e6b12-7563-4d1e-b243-72a6b4d85832")
-		(property "Reference" "SW54"
+		(property "Reference" "SW30"
 			(at 372.11 139.7 0)
 			(effects
 				(font
@@ -10701,7 +10701,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW54")
+					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -10717,7 +10717,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb004ef4-548d-4e23-aa26-2ed926a9314a")
-		(property "Reference" "D7"
+		(property "Reference" "D16"
 			(at 127 140.97 0)
 			(effects
 				(font
@@ -10733,7 +10733,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 127 142.875 0)
 			(effects
 				(font
@@ -10787,7 +10787,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D7")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -10803,7 +10803,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd0f5e89-6cd8-44fd-9033-7c964703f141")
-		(property "Reference" "D47"
+		(property "Reference" "D25"
 			(at 355.6 140.97 0)
 			(effects
 				(font
@@ -10819,7 +10819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 355.6 142.875 0)
 			(effects
 				(font
@@ -10873,7 +10873,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D47")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -10889,7 +10889,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd26f231-13e3-4f32-9e8e-aa200cc73ebb")
-		(property "Reference" "D13"
+		(property "Reference" "D57"
 			(at 152.4 217.17 0)
 			(effects
 				(font
@@ -10905,7 +10905,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 152.4 219.075 0)
 			(effects
 				(font
@@ -10959,7 +10959,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D13")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -10975,7 +10975,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cde442dc-c6a9-4d6f-ae5e-5bcc3339675a")
-		(property "Reference" "SW49"
+		(property "Reference" "SW29"
 			(at 346.71 139.7 0)
 			(effects
 				(font
@@ -11027,7 +11027,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW49")
+					(reference "SW29")
 					(unit 1)
 				)
 			)
@@ -11043,7 +11043,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf6f212c-ce9d-4c61-bc1b-a42b92c4d034")
-		(property "Reference" "SW30"
+		(property "Reference" "SW12"
 			(at 245.11 114.3 0)
 			(effects
 				(font
@@ -11095,7 +11095,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW30")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -11111,7 +11111,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d26d06a8-f118-40f9-a4ed-75b0db8fcc37")
-		(property "Reference" "D27"
+		(property "Reference" "D59"
 			(at 228.6 217.17 0)
 			(effects
 				(font
@@ -11127,7 +11127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 228.6 219.075 0)
 			(effects
 				(font
@@ -11181,7 +11181,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D27")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -11196,7 +11196,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d28e2b36-61f6-4016-bec3-8b5494c70611")
-		(property "Reference" "SW52"
+		(property "Reference" "SW66"
 			(at 346.71 215.9 0)
 			(effects
 				(font
@@ -11248,7 +11248,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW52")
+					(reference "SW66")
 					(unit 1)
 				)
 			)
@@ -11264,7 +11264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5bec895-d72f-4b85-89bb-a2fe4159c87e")
-		(property "Reference" "D37"
+		(property "Reference" "D10"
 			(at 304.8 115.57 0)
 			(effects
 				(font
@@ -11280,7 +11280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 304.8 117.475 0)
 			(effects
 				(font
@@ -11334,7 +11334,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D37")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -11349,7 +11349,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d703d20d-0197-4b1a-b0d2-a197cd4b284d")
-		(property "Reference" "SW63"
+		(property "Reference" "SW32"
 			(at 422.91 139.7 0)
 			(effects
 				(font
@@ -11365,7 +11365,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 422.91 142.24 0)
 			(effects
 				(font
@@ -11374,7 +11374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 422.91 142.24 0)
 			(effects
 				(font
@@ -11383,7 +11383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 422.91 147.32 0)
 			(effects
 				(font
@@ -11401,7 +11401,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW63")
+					(reference "SW32")
 					(unit 1)
 				)
 			)
@@ -11417,7 +11417,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9e8c715-5f99-4984-a14e-6a4ba8ba9d69")
-		(property "Reference" "SW39"
+		(property "Reference" "SW14"
 			(at 295.91 114.3 0)
 			(effects
 				(font
@@ -11469,7 +11469,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW39")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -11485,7 +11485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da0458cd-e010-4ec6-a90d-e69ce89858ef")
-		(property "Reference" "D20"
+		(property "Reference" "D19"
 			(at 203.2 140.97 0)
 			(effects
 				(font
@@ -11501,7 +11501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 203.2 142.875 0)
 			(effects
 				(font
@@ -11555,7 +11555,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D20")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -11571,7 +11571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db22288f-6f90-4c4e-bdfb-a7f3fa58b9ec")
-		(property "Reference" "D3"
+		(property "Reference" "D29"
 			(at 101.6 166.37 0)
 			(effects
 				(font
@@ -11587,7 +11587,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 101.6 168.275 0)
 			(effects
 				(font
@@ -11641,7 +11641,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D3")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -11656,7 +11656,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dd448d69-ce2e-4f35-a9e2-f9670c0c654c")
-		(property "Reference" "SW45"
+		(property "Reference" "SW42"
 			(at 321.31 165.1 0)
 			(effects
 				(font
@@ -11708,7 +11708,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW45")
+					(reference "SW42")
 					(unit 1)
 				)
 			)
@@ -11724,7 +11724,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddc74a28-1762-4bc4-906e-128544652a84")
-		(property "Reference" "D52"
+		(property "Reference" "D26"
 			(at 381 140.97 0)
 			(effects
 				(font
@@ -11740,7 +11740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 381 142.875 0)
 			(effects
 				(font
@@ -11794,7 +11794,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D52")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -11809,7 +11809,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de550e0f-dcc1-4b3b-a4ce-156e22b9240d")
-		(property "Reference" "SW32"
+		(property "Reference" "SW39"
 			(at 245.11 165.1 0)
 			(effects
 				(font
@@ -11861,7 +11861,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW32")
+					(reference "SW39")
 					(unit 1)
 				)
 			)
@@ -11876,7 +11876,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e0e950ad-be47-4c5c-8054-be80f33df228")
-		(property "Reference" "SW20"
+		(property "Reference" "SW62"
 			(at 194.31 215.9 0)
 			(effects
 				(font
@@ -11928,7 +11928,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW20")
+					(reference "SW62")
 					(unit 1)
 				)
 			)
@@ -11944,7 +11944,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0f9fe93-2306-4cae-8151-5dc469784ef8")
-		(property "Reference" "D58"
+		(property "Reference" "D41"
 			(at 406.4 166.37 0)
 			(effects
 				(font
@@ -11960,7 +11960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 406.4 168.275 0)
 			(effects
 				(font
@@ -12014,7 +12014,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D58")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -12030,7 +12030,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2cc92c0-323a-4490-910f-15e93aeb50b1")
-		(property "Reference" "D35"
+		(property "Reference" "D48"
 			(at 279.4 191.77 0)
 			(effects
 				(font
@@ -12046,7 +12046,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 279.4 193.675 0)
 			(effects
 				(font
@@ -12100,7 +12100,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D35")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -12115,7 +12115,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e8660871-4305-4eca-8601-e485b11d43b9")
-		(property "Reference" "SW47"
+		(property "Reference" "SW65"
 			(at 321.31 215.9 0)
 			(effects
 				(font
@@ -12131,7 +12131,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
 			(at 321.31 218.44 0)
 			(effects
 				(font
@@ -12140,7 +12140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 321.31 218.44 0)
 			(effects
 				(font
@@ -12149,7 +12149,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 321.31 223.52 0)
 			(effects
 				(font
@@ -12167,7 +12167,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW47")
+					(reference "SW65")
 					(unit 1)
 				)
 			)
@@ -12183,7 +12183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea0e609e-25f3-4b4d-a20d-e225897b3687")
-		(property "Reference" "D60"
+		(property "Reference" "D64"
 			(at 406.4 217.17 0)
 			(effects
 				(font
@@ -12199,7 +12199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 406.4 219.075 0)
 			(effects
 				(font
@@ -12253,7 +12253,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D60")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -12269,7 +12269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb79cc39-d08e-41c2-a12c-9acb589a6cf6")
-		(property "Reference" "D51"
+		(property "Reference" "D13"
 			(at 381 115.57 0)
 			(effects
 				(font
@@ -12285,7 +12285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 381 117.475 0)
 			(effects
 				(font
@@ -12339,7 +12339,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D51")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -12355,7 +12355,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ecc78b0d-6fc8-4e8f-8587-75353335b4bf")
-		(property "Reference" "D32"
+		(property "Reference" "D9"
 			(at 279.4 115.57 0)
 			(effects
 				(font
@@ -12371,7 +12371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 279.4 117.475 0)
 			(effects
 				(font
@@ -12425,7 +12425,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D32")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -12441,7 +12441,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee6f684c-1256-438d-995e-ea481b23983b")
-		(property "Reference" "D16"
+		(property "Reference" "D32"
 			(at 177.8 166.37 0)
 			(effects
 				(font
@@ -12457,7 +12457,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 177.8 168.275 0)
 			(effects
 				(font
@@ -12511,7 +12511,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D16")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -12526,7 +12526,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ef05dc77-637c-4d68-a9a7-76c0a60879c7")
-		(property "Reference" "SW50"
+		(property "Reference" "SW43"
 			(at 346.71 165.1 0)
 			(effects
 				(font
@@ -12578,7 +12578,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW50")
+					(reference "SW43")
 					(unit 1)
 				)
 			)
@@ -12594,7 +12594,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3c06e4f-93a4-4fcd-9013-701011d518a0")
-		(property "Reference" "SW37"
+		(property "Reference" "SW52"
 			(at 270.51 190.5 0)
 			(effects
 				(font
@@ -12646,7 +12646,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW37")
+					(reference "SW52")
 					(unit 1)
 				)
 			)
@@ -12662,7 +12662,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f44c8610-cfa6-455e-8672-f9aafdd0eef2")
-		(property "Reference" "SW53"
+		(property "Reference" "SW17"
 			(at 372.11 114.3 0)
 			(effects
 				(font
@@ -12714,7 +12714,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW53")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -12730,7 +12730,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fafd3612-f402-40a9-a112-da66baa31660")
-		(property "Reference" "D40"
+		(property "Reference" "D49"
 			(at 304.8 191.77 0)
 			(effects
 				(font
@@ -12746,7 +12746,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 304.8 193.675 0)
 			(effects
 				(font
@@ -12800,7 +12800,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D40")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -12816,7 +12816,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc4e66b1-2608-4a6b-901c-e9a0555267c4")
-		(property "Reference" "SW24"
+		(property "Reference" "SW49"
 			(at 194.31 190.5 0)
 			(effects
 				(font
@@ -12868,7 +12868,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW24")
+					(reference "SW49")
 					(unit 1)
 				)
 			)
@@ -12884,7 +12884,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe6a265d-4ca3-41a7-9cbc-3c52d521f4f3")
-		(property "Reference" "D8"
+		(property "Reference" "D30"
 			(at 127 166.37 0)
 			(effects
 				(font
@@ -12900,7 +12900,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 127 168.275 0)
 			(effects
 				(font
@@ -12954,7 +12954,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "D8")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -12970,7 +12970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fea78654-80b0-450a-927e-9a08bffc05ef")
-		(property "Reference" "SW9"
+		(property "Reference" "SW20"
 			(at 118.11 139.7 0)
 			(effects
 				(font
@@ -13022,7 +13022,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW9")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -13037,7 +13037,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ffacad6a-4e5d-4dfa-8906-42c17ef2a58c")
-		(property "Reference" "SW10"
+		(property "Reference" "SW34"
 			(at 118.11 165.1 0)
 			(effects
 				(font
@@ -13089,7 +13089,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW10")
+					(reference "SW34")
 					(unit 1)
 				)
 			)
@@ -13105,7 +13105,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffe3a841-852b-44a6-8aac-c1a6916ab985")
-		(property "Reference" "SW35"
+		(property "Reference" "SW26"
 			(at 270.51 139.7 0)
 			(effects
 				(font
@@ -13157,7 +13157,7 @@
 		(instances
 			(project "keyboard"
 				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4/c37fc789-abd5-4847-9b09-92067adc1997"
-					(reference "SW35")
+					(reference "SW26")
 					(unit 1)
 				)
 			)

@@ -1,0 +1,266 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6dbb65f4-5576-4e18-9627-83014d84ecc4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 40.64 121.92)
+		(size 36.83 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "31815c76-57e3-46f4-a3e7-b464abc06b3f")
+		(property "Sheetname" "Oscillator"
+			(at 40.64 121.2084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "oscillator.kicad_sch"
+			(at 40.64 147.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "wheatboard"
+				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 36.83)
+		(size 36.83 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "69cff255-9fa6-4711-8724-a2455d867f76")
+		(property "Sheetname" "Power"
+			(at 40.64 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 40.64 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "wheatboard"
+				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 116.84 40.64)
+		(size 64.77 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6a4662bb-e4d4-4c72-976b-2148666e8c86")
+		(property "Sheetname" "MCU"
+			(at 116.84 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 116.84 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "wheatboard"
+				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 81.28)
+		(size 36.83 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7adace9b-063e-4b7c-921f-8b942603049c")
+		(property "Sheetname" "Flash"
+			(at 40.64 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "flash.kicad_sch"
+			(at 40.64 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "wheatboard"
+				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 129.54)
+		(size 39.37 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c37fc789-abd5-4847-9b09-92067adc1997")
+		(property "Sheetname" "Switch Matrix"
+			(at 118.11 128.8284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "switchmat.kicad_sch"
+			(at 118.11 164.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "wheatboard"
+				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 211.455 45.72)
+		(size 35.56 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e7e875cf-efe4-43d8-ad3f-d0327ce74593")
+		(property "Sheetname" "display"
+			(at 211.455 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display.kicad_sch"
+			(at 211.455 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "wheatboard"
+				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
