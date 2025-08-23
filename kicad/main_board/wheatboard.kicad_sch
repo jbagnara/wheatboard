@@ -215,48 +215,6 @@
 			)
 		)
 	)
-	(sheet
-		(at 211.455 45.72)
-		(size 35.56 33.02)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "e7e875cf-efe4-43d8-ad3f-d0327ce74593")
-		(property "Sheetname" "display"
-			(at 211.455 45.0084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "display.kicad_sch"
-			(at 211.455 79.3246 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "wheatboard"
-				(path "/6dbb65f4-5576-4e18-9627-83014d84ecc4"
-					(page "7")
-				)
-			)
-		)
-	)
 	(sheet_instances
 		(path "/"
 			(page "1")
